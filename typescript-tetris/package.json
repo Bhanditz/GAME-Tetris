@@ -7,8 +7,8 @@
   "license": "MIT",
   "dependencies": {
     "@robotlegsjs/core": "^0.1.1",
-    "@robotlegsjs/pixi": "^0.1.2",
-    "@robotlegsjs/pixi-palidor": "^0.1.1",
+    "@robotlegsjs/pixi": "^0.2.0",
+    "@robotlegsjs/pixi-palidor": "^0.2.0",
     "pixi.js": "^4.6.1",
     "reflect-metadata": "^0.1.10"
   },
